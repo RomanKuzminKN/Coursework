@@ -1,0 +1,14 @@
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\bin\x64\Debug\DAI.exe.config
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\bin\x64\Debug\DAI.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\bin\x64\Debug\DAI.pdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.csproj.AssemblyReference.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.csproj.SuggestedBindingRedirects.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.Form1.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.Form2.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.Properties.Resources.resources
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.csproj.GenerateResource.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.csproj.CoreCompileInputs.cache
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.exe
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.pdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\bin\x64\Debug\DAI.accdb
+F:\ДДМА\3 Курс\Лабы на заказ\Курсовая ОБДЗ\Курсач, Роман\DAI\DAI\obj\x64\Debug\DAI.csproj.ResolveComReference.cache
